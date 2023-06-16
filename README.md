@@ -10,7 +10,7 @@ I am a smart, intelligent, and energetic professional focused on customer satisf
 **Tech Stack:**
 Programming Languages: Python, JavaScript, HTML, CSS
 Technologies: MySQL, Git, Figma, Zeplin, Adobe, Wordpress
- Other: Data structures and algorithms, Functional programming, Frontend web development, Source version control
+Other: Data structures and algorithms, Functional programming, Frontend web development, Source version control
 
 **Additional Skills:**
 Customer Service
