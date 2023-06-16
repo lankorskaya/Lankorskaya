@@ -8,30 +8,30 @@ Here's a brief overview of my profile:
 I am a smart, intelligent, and energetic professional focused on customer satisfaction. With a quick learning ability and strong interpersonal skills, I excel at working with people. I approach work with a methodical mindset, analyzing problems and taking appropriate actions to solve them. I thrive under pressure, meeting deadlines while maintaining high professional standards. I am versatile, adaptable, innovative, and can visualize the overall vision of a project while managing the finer details. Currently, I am seeking opportunities as a Web Developer.
 
 **Tech Stack:**
-- Programming Languages: Python, JavaScript, HTML, CSS
-- Technologies: MySQL, Git, Figma, Zeplin, Adobe, Wordpress
-- Other: Data structures and algorithms, Functional programming, Frontend web development, Source version control
+Programming Languages: Python, JavaScript, HTML, CSS
+Technologies: MySQL, Git, Figma, Zeplin, Adobe, Wordpress
+ Other: Data structures and algorithms, Functional programming, Frontend web development, Source version control
 
 **Additional Skills:**
-- Customer Service
-- Excellent Communication
-- Time Management
-- Problem Solving
-- Social Skills
-- Able to remain calm during challenging situations
-- Attention to Detail
-- Payment Handling
-- Sales Skills
+Customer Service
+Excellent Communication
+Time Management
+Problem Solving
+Social Skills
+Able to remain calm during challenging situations
+Attention to Detail
+Payment Handling
+Sales Skills
 
 **Employment History:**
 Career break                                                                                                          June 2022 - Present
 During this time, I have resettled in the UK, upskilled for the UK job market by enrolling in various courses, and actively seeking employment.
 
 Freelance UI Developer, UX Designer                                                                            November 2021 - May 2022
-- Met with clients to discuss their requirements and project briefs
-- Designed and developed user interfaces
-- Worked on wireframes and prototypes
-- Created visually appealing layouts
+Met with clients to discuss their requirements and project briefs
+Designed and developed user interfaces
+Worked on wireframes and prototypes
+Created visually appealing layouts
 
 **Education and Training:**
 Learning Curve Group, UK                                                                                         2022
