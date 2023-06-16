@@ -89,6 +89,3 @@ Feel free to explore my repositories and projects. If you have any questions or 
   <p>If you have any questions or collaboration ideas, don't hesitate to reach out. Let's connect and create something amazing together!</p>
   <h4>🌟 Happy coding! 🚀</h4>
 </div>
-Feel free to explore my repositories and projects. If you have any questions or collaboration ideas, don't hesitate to reach out. Let's connect and create something amazing together!
-
-🌟 Happy coding! 🚀
